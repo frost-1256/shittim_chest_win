@@ -1,0 +1,2 @@
+# shittim_chest_win
+ブルーアーカイブのシッテムの箱をWindowsに
